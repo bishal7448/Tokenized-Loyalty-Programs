@@ -18,4 +18,7 @@ The goal of this project is to revolutionize traditional loyalty programs by lev
 - User-friendly interface for tracking and redeeming rewards.
 - Potential for interoperability with other blockchain applications.
 
-![image](https://github.com/user-attachments/assets/d5da3e7b-06d2-49be-bb0f-ff46224458d8)
+## Contract Address
+0x1bBe5F8Da1bE90235437aDd047aDbD599966FF58
+
+![image](https://github.com/user-attachments/assets/40d671e8-df2f-4e7f-b96c-ee56e16a69eb)
