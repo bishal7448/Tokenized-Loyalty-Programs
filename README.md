@@ -17,3 +17,5 @@ The goal of this project is to revolutionize traditional loyalty programs by lev
 - Smart contract-powered issuance and tracking of loyalty tokens.
 - User-friendly interface for tracking and redeeming rewards.
 - Potential for interoperability with other blockchain applications.
+
+![image](https://github.com/user-attachments/assets/d5da3e7b-06d2-49be-bb0f-ff46224458d8)
